@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BelajarLibrary</string>
+    <string name="button_ok">OK</string>
+    <string name="button_install">Get File Manage</string>
+</resources>

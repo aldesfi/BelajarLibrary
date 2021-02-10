@@ -1,0 +1,3 @@
+include ':uploadDoc'
+include ':app'
+rootProject.name = "BelajarLibrary"
