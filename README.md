@@ -49,9 +49,19 @@ aldes.doUpload
         -	TORV
               Void
 
+2.	Operation Permissions PERMISSION_EXTERNAL_STORAGE
 
-
-
+ aldes.cekIzinBacaStorage(this,PERMISSION_EXTERNAL_STORAGE);
+ 
+        -	Operand 1
+              o	Type = class
+              o	Pass a class the Activity
+        -	Operand 2
+              o	Type = String
+              o	Int For Already Allow
+        -	TORV
+              Int
+ 
 
 PHP CODE
 
