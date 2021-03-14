@@ -1,11 +1,11 @@
-### IDE 
+## IDE 
 #### Android Studio
 
-Belajar Membuat Library Upload File 
+## Belajar Membuat Library Upload File 
 
 
 
-Dokumentasi Library Upload Document
+### Dokumentasi Library Upload Document
 
 
 objectHasil = aldes.doUpload(
@@ -20,7 +20,7 @@ aldes.printHasil(
         textView1);
 
 
-1.	Operation Upload
+#### 1.	Operation Upload
 
 aldes.doUpload
 
@@ -39,7 +39,7 @@ aldes.doUpload
       -	TORV
             True for success false for failed
 
-2.	Operation SetText For Result
+#### 2.	Operation SetText For Result
 
       aldes.printHasil
 
@@ -52,7 +52,7 @@ aldes.doUpload
         -	TORV
               Void
 
-2.	Operation Permissions PERMISSION_EXTERNAL_STORAGE
+#### 3.	Operation Permissions PERMISSION_EXTERNAL_STORAGE
 
  aldes.cekIzinBacaStorage(this,PERMISSION_EXTERNAL_STORAGE);
  
@@ -66,7 +66,7 @@ aldes.doUpload
               Int
  
 
-PHP CODE
+### PHP CODE
 
 
     $file_path = "uploads/";
